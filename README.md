@@ -16,6 +16,6 @@ This is a simple and responsive CV (Curriculum Vitae) project built using HTML a
 ## 🎓 Purpose
 This project is created for learning and academic purposes to practice front-end web development skills.
 ## Live URL: 
-https://mehedi-io.github.io/CV-Project-Using-CSS/
+https://mehedi-txt.github.io/CV-Project-Using-CSS/
 ## 👨‍💻 Author
 Md. Mehedi Hasan
